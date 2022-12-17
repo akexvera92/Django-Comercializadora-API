@@ -9,10 +9,13 @@
 Este proyecto consiste en realizar y utilizar apis como lo son :
 
 
--MotoListApiView:Esta API nos trae en una lista los datos que dijitamos en la base de datos sql lite
+-CafeteriaApiView:Esta API nos trae en una lista los datos que dijitamos en la base de datos sql lite
 
 
--MotoDetailApiView:Esta API nos trae el metodo get el cual nos trae las motos,metodo put el cual nos dejar crear una nueva moto o editar,metodo delete el cual nos deja eliminar una moto
+-CafeteriaDetailApiView:Esta API nos trae el metodo get el cual nos trae las motos,metodo put el cual nos dejar crear una nueva moto o editar,metodo delete el cual nos deja eliminar una moto
+
+-afeteriaClasificacionApiView:Esta api es la que nos permite ver los productos por clasificacion
+
 
 
 Para iniciar el proyecto debes
@@ -21,7 +24,7 @@ luego entrar a la carpeta app_comercializadora y poner CMD en la url luego deber
 ![image](https://user-images.githubusercontent.com/101748327/208256850-49b344fa-1b23-4a2b-9133-cf7d01005c4f.png)
 lo siguiente que haremos sera poner el url /api/ 
 ![image](https://user-images.githubusercontent.com/101748327/208257329-40547459-0b55-4fb0-ac3b-43492b010e47.png)
-como ustedes no tienen ninguna moto para agregar una nueva moto sera asi daremos click al boton post
+como ustedes no tienen ninguna producto para agregar una nueva moto sera asi daremos click al boton post
 ![image](https://user-images.githubusercontent.com/101748327/208257360-3f0aca50-5e2c-4b19-9c3c-bbfccb767ceb.png)
 tendremos la siguiente vista asi sabremos que se agrego correctamente
 ![image](https://user-images.githubusercontent.com/101748327/208257370-01fe648d-9d39-44c8-8853-7931d0e267ff.png)
