@@ -14,7 +14,7 @@ Este proyecto consiste en realizar y utilizar apis como lo son :
 
 -CafeteriaDetailApiView:Esta API nos trae el metodo get el cual nos trae las motos,metodo put el cual nos dejar crear una nueva moto o editar,metodo delete el cual nos deja eliminar una moto
 
--afeteriaClasificacionApiView:Esta api es la que nos permite ver los productos por clasificacion
+-CafeteriaClasificacionApiView:Esta api es la que nos permite ver los productos por clasificacion
 
 
 
